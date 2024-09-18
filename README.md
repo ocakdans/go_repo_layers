@@ -3,9 +3,9 @@
 - ### gommon for log operations.
 - ### testify for assertions.
 - ### Directories
-- **a**:common --> helpers
-- **b**:controller --> presentation layer
-- **c**:domain --> storing the models
-- **d**:db connection --> persistence, data layer.
-- **e**:service --> business rules.
-- **f**:test --> unit and integration tests
+	- common --> helpers
+	- controller --> presentation layer
+	- domain --> storing the models
+	- db connection --> persistence, data layer.
+	- service --> business rules.
+	- test --> unit and integration tests
