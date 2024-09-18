@@ -3,10 +3,9 @@
 3. gommon for log operations.
 4. testify for assertions.
 5. Directories
-    a. common --> tüm katmanlarda kullanılan struct, method etc.
-    b. controller --> presentation katmanı
-    c. domain --> modeller deploanacak
-    d. db bağlantısı --> persistence, data layer.
+    a. common --> helpers
+    b. controller --> presentation layer
+    c. domain --> storing the models
+    d. db connection --> persistence, data layer.
     e. service --> business rules.
     f. test --> unit and integration tests
-6. 
